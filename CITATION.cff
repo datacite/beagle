@@ -1,0 +1,39 @@
+---
+cff-version: 1.2.0
+message: 'If you use Beagle: the code for the FREYA PID Services Registry in your
+  work, please cite it using the following metadata'
+doi: https://doi.org/10.14454/e0f7-zs08
+repository-code: https://github.com/datacite/beagle
+title: 'Beagle: the code for the FREYA PID Services Registry'
+authors:
+- given-names: Richard
+  family-names: Hallett
+  orcid: https://orcid.org/0000-0002-8599-0773
+- given-names: Martin
+  family-names: Fenner
+  orcid: https://orcid.org/0000-0003-1419-2405
+- given-names: Pamfilos
+  family-names: Fokianos
+  orcid: https://orcid.org/0000-0003-0618-1722
+abstract: The FREYA project is building up human and technical resources to support
+  persistent identifier (PID) infrastructure in the European Open Science Cloud (EOSC).
+  One important gap identified during the planning of the project is the lack of a
+  central resource that allows for the discovery of relevant persistent identifier
+  services by all relevant stakeholders. With this deliverable we are closing this
+  gap by providing a PID Services Registry for the EOSC with initially 35 services
+  described. The PID Services Registry collects standardized information aligned with
+  the EOSC Marketplace, and registers a persistent identifier (a DataCite DOI) with
+  associated metadata for each service. The initial release describes the services
+  provided by FREYA partners, but going forward all relevant PID services will be
+  included, based on standard inclusion criteria and an editorial team from FREYA
+  partners. The other focus of our work going forward is adoption by users, both infrastructure
+  providers needing to integrate with the variety of PID services available today,
+  as well as researchers and other end users. Service Registries for EOSC are a highly
+  dynamic area that has changed since the beginning of the FREYA project.
+version: 1.0.3
+keywords:
+- pid
+- service
+- freya
+date-released: '2020-06-26'
+license: mit
